@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="template">
+        <name>JoelQuass.com</name>
+        <creationDate>2013-07-01</creationDate>
+        <author>Jon Quass</author>
+        <authorEmail>quassj@gmail.com</authorEmail>
+        <authorUrl>http://www.jonquass.com</authorUrl>
+        <copyright>Good Management Is Not, LLC (2013)</copyright>
+        <license>GNU/GPL</license>
+        <version>1.0.0</version>
+        <description>Template for Speaker/Author Joel Quass</description>
+        <files>
+                <filename>index.php</filename>
+                <filename>templateDetails.xml</filename>
+				<filename>template_preview.png</filename>
+				<filename>template_thumbnail.png</filename>
+                <folder>images</folder>
+                <folder>css</folder>
+				<folder>js</folder>
+        </files>
+        <positions>
+                <position>breadcrumb</position>
+				<position>menu</position>
+                <position>left</position>
+                <position>right</position>
+                <position>top</position>
+				<position>bottom</position>
+                <position>user1</position>
+                <position>user2</position>
+                <position>user3</position>
+                <position>user4</position>
+                <position>footer</position>
+				<position>footer_header</position>
+				<position>header</position>
+				<position>debug</position>
+        </positions>
+</extension>
